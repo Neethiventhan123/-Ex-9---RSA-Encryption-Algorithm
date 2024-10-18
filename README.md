@@ -146,7 +146,8 @@ int main() {
 }
 ```
 ## Output:
-![CRY EXP-9](https://github.com/user-attachments/assets/cade0564-a02d-46a3-9ee0-1a4c6e10730b)
+![image](https://github.com/user-attachments/assets/0c06e68f-71fb-41ef-949e-3b741db9d8f8)
+
 
 
 ## Result:
